@@ -7,6 +7,7 @@
 #include <tuple>
 #include <vector>
 #include "simdutf/common_defs.h"
+#include "simdutf/encoding_types.h"
 #include "simdutf/internal/isadetection.h"
 
 namespace simdutf {
